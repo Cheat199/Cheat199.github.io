@@ -1,5 +1,3 @@
-好用的Windows应用推荐
-
 -  :card_file_box: [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序
 -  :framed_picture: [pear-rec](https://github.com/027xiguapi/pear-rec)  - 一个跨平台的截图、录屏、录音、录像软件
 - :pencil2: [Visual Studio Code](https://code.visualstudio.com/)  - 最强的代码编辑器
@@ -14,8 +12,4 @@
 - :desktop_computer: [GPU-Z](http://www.techpowerup.com/gpuz/) - 免费且功能齐全的 GPU 监控工具
 -  :desktop_computer: [QuickLook](https://github.com/QL-Win/QuickLook/) -让用户单机空格键就能实现苹果电脑同款文件预览的功能
 - :floppy_disk: [DiskGenius](https://www.diskgenius.cn/) - 老牌国产软件，专注数据恢复与磁盘管理，中文界面
-
-
-
-
 

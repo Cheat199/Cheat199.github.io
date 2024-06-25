@@ -1,2 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cheat199的博客</title><link>https://Cheat199.github.io</link><description>不定期分享一些好东西</description><copyright>Cheat199的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/172242605?v=4</url><title>avatar</title><link>https://Cheat199.github.io</link></image><lastBuildDate>Tue, 25 Jun 2024 04:20:12 +0000</lastBuildDate><managingEditor>Cheat199的博客</managingEditor><ttl>60</ttl><webMaster>Cheat199的博客</webMaster></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Cheat199的博客</title><link>https://Cheat199.github.io</link><description>不定期分享一些好东西</description><copyright>Cheat199的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/172242605?v=4</url><title>avatar</title><link>https://Cheat199.github.io</link></image><lastBuildDate>Tue, 25 Jun 2024 04:26:42 +0000</lastBuildDate><managingEditor>Cheat199的博客</managingEditor><ttl>60</ttl><webMaster>Cheat199的博客</webMaster><item><title>好用的Windows应用推荐</title><link>https://Cheat199.github.io/post/hao-yong-de-Windows-ying-yong-tui-jian.html</link><description>-  :card_file_box: [7-Zip](http://www.7-zip.org/) - 用于处理压缩包的开源Windows实用程序&#13;
+-  :framed_picture: [pear-rec](https://github.com/027xiguapi/pear-rec)  - 一个跨平台的截图、录屏、录音、录像软件&#13;
+- :pencil2: [Visual Studio Code](https://code.visualstudio.com/)  - 最强的代码编辑器&#13;
+-  :framed_picture: [lively](https://github.com/rocksdanister/lively)  -一款开源优秀的壁纸引擎&#13;
+- :desktop_computer: [IDM](https://mirror2.internetdownloadmanager.com/idman642build10.exe?v=lt&amp;filename=idman642build10.exe) - 一款十分优秀下载工具，支持多线程下载&#13;
+- :film_projector: [PotPlayer](http://potplayer.daum.net/) - 多媒体播放器，拥有强大的编解码器能力&#13;
+- :gift: [WingetUI](https://www.marticliment.com/wingetui/) - 基于winget的软件包管理界面程序&#13;
+- :desktop_computer: [PowerToys](https://github.com/microsoft/PowerToys) - 微软实用小工具集合&#13;
+- :green_circle: [RevoUPPort](https://www.revouninstaller.com/zh/) - 好用的软件卸载工具&#13;
+-  :desktop_computer: [入梦工具箱](https://rmsys.top/RMTool.html) - 图吧工具箱的最好替代品&#13;
+- :desktop_computer: [CPU-Z](http://www.cpuid.com/softwares/cpu-z.html) - 免费且功能齐全的 CPU 监控工具&#13;
+- :desktop_computer: [GPU-Z](http://www.techpowerup.com/gpuz/) - 免费且功能齐全的 GPU 监控工具&#13;
+-  :desktop_computer: [QuickLook](https://github.com/QL-Win/QuickLook/) -让用户单机空格键就能实现苹果电脑同款文件预览的功能&#13;
+- :floppy_disk: [DiskGenius](https://www.diskgenius.cn/) - 老牌国产软件，专注数据恢复与磁盘管理，中文界面&#13;
+&#13;
+。</description><guid isPermaLink="true">https://Cheat199.github.io/post/hao-yong-de-Windows-ying-yong-tui-jian.html</guid><pubDate>Tue, 25 Jun 2024 04:22:45 +0000</pubDate></item></channel></rss>
